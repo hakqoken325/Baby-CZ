@@ -1,0 +1,6 @@
+{
+  "name": "Baby SAFU Simulator",
+  "description": "Interactive crypto clicker game celebrating Yi He's baby with BNB upgrades, growth levels, and official SAFU Passport generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
